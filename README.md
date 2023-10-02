@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi! I'm Mariam Garcia </h1>
+
+<h3 align="center"> Master's of Environmental Data Science Student @ UCSB </h3>
+
 
 <!--
 **mariamkg00/mariamkg00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
